@@ -1,2 +1,2 @@
 # neevastask
-i developed portfolio and ttribute page by using html css
+i developed  tribute page by using html css
